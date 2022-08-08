@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SikTheDay**
 
-- 👨‍💻 All of my projects are available at [pree.netlify.app](pree.netlify.app)
+- 👨‍💻 My portfolio is available at [pree.netlify.app](pree.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preeformance&show_icons=true&locale=en" alt="preeformance" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preeformance&" alt="preeformance" /></p>
-
