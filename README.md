@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pree</h1>
 <h3 align="center">A full-stack developer with a lot of energy for projects that improve people's lives.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=preeformance&label=Profile%20views&color=0e75b6&style=flat" alt="preeformance" /> </p>
-
-<p align="left"> <a href="https://twitter.com/preeformance" target="blank"><img src="https://img.shields.io/twitter/follow/preeformance?logo=twitter&style=for-the-badge" alt="preeformance" /></a> </p>
 
 - 🔭 I’m currently working on **SikTheDay**
 
