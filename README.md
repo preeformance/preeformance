@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **SikTheDay**
 
-- 👨‍💻 My portfolio is available at [pree.netlify.app](pree.netlify.app)
+- 👨‍💻 My portfolio is available at [https:www.pree.netlify.app](pree.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
