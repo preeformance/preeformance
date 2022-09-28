@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack developer with a lot of energy for projects that improve people's lives.</h3>
 
 
-- 🔭 I’m currently working on **SikTheDay, a full stack app that helps you identify and keep track of solid restaurants**
+- 🔭 I’m currently working on **[SikTheDay](https://siktheday.herokuapp.com), a full stack app that helps you identify and keep track of solid restaurants**
 
 - 👨‍💻 My portfolio is available at [pree.netlify.app](https://pree.netlify.app)
 
