@@ -1,4 +1,4 @@
-[![@preeformance's Holopin board](https://holopin.io/api/user/board?user=preeformance)](https://holopin.io/@preeformance)
+
 <h1 align="center">Hi 👋, I'm Pree</h1>
 <h3 align="center">A full-stack developer with a lot of energy for projects that improve people's lives.</h3>
 
