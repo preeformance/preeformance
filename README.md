@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **HSK Study Pro**, a react app for people preparing to take the standard Mandarin proficiency test. 
 
-- 🔭 A recent project I built is **[SikTheDay](https://siktheday.herokuapp.com), a full stack app that helps you identify and keep track of solid restaurants.** ([repo](https://github.com/preeformance/siktheday))
+- 📝 I recently built **[SikTheDay](https://siktheday.herokuapp.com), a full stack app that helps you identify and keep track of solid restaurants.** ([repo](https://github.com/preeformance/siktheday))
 
 - 💬 Ask me about **getting started with contributing to open source projects.**
 
