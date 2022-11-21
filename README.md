@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Pree</h1>
 <h3 align="center">A software engineer with a lot of energy for projects that improve people's lives.</h3>
 
-- 🔭 I’m currently working on **[SikTheDay](https://siktheday.herokuapp.com), a full stack app that helps you identify and keep track of solid restaurants.** ([repo](https://github.com/preeformance/siktheday))
+- 🌱 I’m currently working on **HSK Study Pro**, a react app for people preparing to take the standard Mandarin proficiency test. 
+
+- 🔭 A recent project I built is **[SikTheDay](https://siktheday.herokuapp.com), a full stack app that helps you identify and keep track of solid restaurants.** ([repo](https://github.com/preeformance/siktheday))
 
 - 💬 Ask me about **getting started with contributing to open source projects.**
 
