@@ -7,7 +7,7 @@
 
 - 📝 I recently built **[SikTheDay](https://siktheday.cyclic.app/),** a full stack app that helps you identify and keep track of solid restaurants. ([repo](https://github.com/preeformance/siktheday))
 
-- 💬 Ask me about **getting started with contributing to open source projects.**
+- 💬 Ask me about **achieving your company's goals through a new or updated website/app.**
 
 - 👨‍💻 My portfolio is available at [pree.netlify.app](https://pree.netlify.app)
 
