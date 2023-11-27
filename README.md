@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pree</h1>
 <h3 align="center">A software engineer with a lot of energy for projects that improve people's lives.</h3>
 
-- 🌱 I’m currently working on **HSK Study Pro**, a react app for people preparing to take the standard Mandarin proficiency test. 
+- 🌱 I’m currently working on **spaceBreak**, a discord bot that works with the NASA API to encourage people to take a break from their screen.
 
 - 📝 I recently built **[SikTheDay](https://siktheday.cyclic.app/),** a full stack app that helps you identify and keep track of solid restaurants. ([repo](https://github.com/preeformance/siktheday))
 
