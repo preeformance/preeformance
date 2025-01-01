@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **spaceBreak**, a discord bot that works with the NASA API to encourage people to take a break from their screen.
 
-- 📝 I recently built **[SikTheDay](https://siktheday.cyclic.app/),** a full stack app that helps you identify and keep track of solid restaurants. ([repo](https://github.com/preeformance/siktheday))
+- 📝 I recently built **[SikTheDay](https://siktheday.up.railway.app/),** a full stack app that helps you identify and keep track of solid restaurants. ([repo](https://github.com/preeformance/siktheday))
 
 - 💬 Ask me about **achieving your company's goals through a new or updated website/app.**
 
